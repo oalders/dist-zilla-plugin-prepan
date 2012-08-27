@@ -22,8 +22,8 @@ sub metadata {
     my $self = shift;
     return {
         resources => {
-            'X_prepan_author' => $self->author,
-            'X_prepan_module' => $self->module
+            'x_prepan_author' => $self->author,
+            'x_prepan_module' => $self->module
         }
     };
 }
@@ -35,9 +35,9 @@ no Moose;
 
 In C<dist.ini>:
 
-[PrePAN]
-author = http://prepan.org/user/3Yz7PYrBzQ
-module = http://prepan.org/module/429En4oFdi
+    [PrePAN]
+    author = http://prepan.org/user/3Yz7PYrBzQ
+    module = http://prepan.org/module/429En4oFdi
 
 =head1 DESCRIPTION
 

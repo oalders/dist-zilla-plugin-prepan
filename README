@@ -8,8 +8,9 @@ VERSION
 SYNOPSIS
     In "dist.ini":
 
-    [PrePAN] author = http://prepan.org/user/3Yz7PYrBzQ module =
-    http://prepan.org/module/429En4oFdi
+        [PrePAN]
+        author = http://prepan.org/user/3Yz7PYrBzQ
+        module = http://prepan.org/module/429En4oFdp
 
 DESCRIPTION
     This plugin sets a PrePAN.org author and module URL for a distribution.
@@ -29,7 +30,7 @@ METHODS
     there. We can't infer the URL because it's not guessable.
 
         [PrePAN]
-        module = http://prepan.org/module/429En4oFdi
+        module = http://prepan.org/module/429En4oFdp
 
   metadata
     Sets the author and/or module urls in the distribution's META file(s).

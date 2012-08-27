@@ -37,7 +37,7 @@ In C<dist.ini>:
 
     [PrePAN]
     author = http://prepan.org/user/3Yz7PYrBzQ
-    module = http://prepan.org/module/429En4oFdi
+    module = http://prepan.org/module/429En4oFdp
 
 =head1 DESCRIPTION
 
@@ -60,7 +60,7 @@ your module description on PrePAN and copy/paste the URL from there.  We can't
 infer the URL because it's not guessable.
 
     [PrePAN]
-    module = http://prepan.org/module/429En4oFdi
+    module = http://prepan.org/module/429En4oFdp
 
 =head2 metadata
 

@@ -1,6 +1,5 @@
 .build
-\.kpf$
-\.komodoproject
 .git
 .gitignore
+dist.ini
 MANIFEST.SKIP

@@ -1,6 +1,8 @@
 use strict;
 use warnings;
 
+use 5.006;
+
 package Dist::Zilla::Plugin::PrePAN;
 
 # ABSTRACT: Automatically set PrePAN author and module URLs

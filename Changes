@@ -1,4 +1,7 @@
 Revision history for Dist-Zilla-Plugin-PrePAN
 
+{{$NEXT}}
+    - dzil config tweaks to make CPANTS happier
+
 0.01 2012-08-27
     - Initial release
